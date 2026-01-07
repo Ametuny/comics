@@ -10,6 +10,9 @@ const sources = [
   'comics/demo/09.jpg',
   'comics/demo/10.jpg',
   'comics/demo/11.jpg',
+  'comics/demo/12.jpg',
+  'comics/demo/13.jpg',
+  'comics/demo/14.jpg',
 ];
 
 const container = document.querySelector('.page-container');
@@ -72,3 +75,4 @@ container.addEventListener('touchend', e => {
   const diff = startX - e.changedTouches[0].clientX;
   if (Math.abs(diff) > 50) slide(diff > 0 ? 1 : -1);
 });
+
