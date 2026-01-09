@@ -13,6 +13,20 @@ const sources = [
   'comics/demo/12.jpg',
   'comics/demo/13.jpg',
   'comics/demo/14.jpg',
+  'comics/demo/15.jpg',
+  'comics/demo/16.jpg',
+  'comics/demo/17.jpg',
+  'comics/demo/18.jpg',
+  'comics/demo/19.jpg',
+  'comics/demo/20.jpg',
+  'comics/demo/22.jpg',
+  'comics/demo/23.jpg',
+  'comics/demo/24.jpg',
+  'comics/demo/25.jpg',
+  'comics/demo/26.jpg',
+  'comics/demo/27.jpg',
+  'comics/demo/28.jpg',
+  'comics/demo/29.jpg',
 ];
 
 const container = document.querySelector('.page-container');
